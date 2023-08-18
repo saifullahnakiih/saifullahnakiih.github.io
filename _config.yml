@@ -9,8 +9,15 @@
 # --- Required options --- #
 ############################
 
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+url: "https://saifullanakiih.github.io"
+baseurl: ""
+
 # Name of website
-title: My Website
+title: Saifullah Nakih
 
 # Your name to show in the footer
 author: Some Person
